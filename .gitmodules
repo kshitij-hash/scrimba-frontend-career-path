@@ -1,0 +1,3 @@
+[submodule "quizzical-app"]
+	path = quizzical-app
+	url = https://github.com/kshitij-hash/Quizzical
