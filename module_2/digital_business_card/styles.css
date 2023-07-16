@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 15px;
+    border: 1px solid #DFD7BF;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: rgb(63, 35, 5, 0.9);
+    color: #F2EAD3;
+    border-radius: 15px;
+    transition: all 0.5s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: 10px 5px 5px rgb(63, 35, 5, 0.4);
+    transition: all 0.5s ease-in-out;
+}
