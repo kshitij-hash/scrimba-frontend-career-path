@@ -1,5 +1,5 @@
 # Hometown Homepage Solo Project
-## [Live]()
+## [Live](https://soft-palmier-454986.netlify.app/)
 
 Quick start:
 
