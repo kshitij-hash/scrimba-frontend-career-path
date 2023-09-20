@@ -1,4 +1,5 @@
-# cz9adVfP
+# Basketball Scorecard (Solo Project)
+## [Live](https://jazzy-salamander-a1e0c5.netlify.app/)
 
 Quick start:
 
